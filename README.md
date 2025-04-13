@@ -6,11 +6,13 @@
     
 # 👋 Hey there! I'm Tomás Panqueva
 
+</div>
+
+<div align="center">
     <strong>🎓 Software Engineering Student</strong> | 
     <strong>💻 Full-Stack Developer</strong> | 
     <strong>☁️ Cloud Enthusiast</strong> | 
     <strong>🔒 Cybersecurity Explorer</strong>
-    
 </div>
 
 <div align="center">
