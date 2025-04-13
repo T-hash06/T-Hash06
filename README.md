@@ -6,16 +6,12 @@
     
 # 👋 Hey there! I'm Tomás Panqueva
 
-</div>
-
-<div align="center">
     <strong>🎓 Software Engineering Student</strong> | 
     <strong>💻 Full-Stack Developer</strong> | 
     <strong>☁️ Cloud Enthusiast</strong> | 
     <strong>🔒 Cybersecurity Explorer</strong>
+    
 </div>
-
----
 
 <div align="center">
     
@@ -45,8 +41,6 @@
 ![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF6C37?logo=datadog&logoColor=white&style=flat&border_radius=4)
 
 </div>
-
----
 
 <div align="center">
     
@@ -84,8 +78,6 @@
 
 </div>
 
----
-
 <div align="center">
     
 ## 🌟 Featured Projects
@@ -103,8 +95,6 @@
 
 </div>
 
----
-
 <div align="center">
     
 ## 📊 GitHub Stats
@@ -118,8 +108,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=T-hash06&theme=nightowl&border_radius=12&date_format=j%20M%5B%20Y%5D)  
 
 </div>
-
----
 
 <div align="center">
     
@@ -135,8 +123,6 @@
 🚧 **Portfolio under construction – stay tuned!**
 
 </div>
-
----
 
 <div align="center">
 
